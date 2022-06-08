@@ -1,5 +1,4 @@
 # chomzzycute.github.io
-<!doctype html>
 <html>
 <head>
   <title> My test website</title>
