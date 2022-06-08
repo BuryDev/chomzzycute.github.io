@@ -1,2 +1,14 @@
 # chomzzycute.github.io
-<h1>how are you today?</h1>
+<!doctype html>
+<html>
+<head>
+  <title> My test website</title>
+  </head>
+  <body>
+  <main>
+    <p>
+    <h1>how are you today?</h1>
+    </p>
+</main>
+</body>
+</html>
